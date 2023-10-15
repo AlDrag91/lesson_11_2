@@ -4,6 +4,6 @@ def upper_func(line: str):
     return upper_case
 
 def title_func(line: str):
-    """Функция заглавныме первые буквы111"""
+    """Функция заглавныме первые буквы11"""
     title_case = line.title()
     return title_case
