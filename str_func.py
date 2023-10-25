@@ -4,6 +4,6 @@ def upper_func(line: str):
 
 
 def title_func(line: str):
-    """Делает заглавными первые буквы каждого слова в строке."""
+    """docstring и фун"""
     title_case = line.title()
     return title_case
